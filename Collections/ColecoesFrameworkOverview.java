@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.stream.*;
 
 
-public class Colecoes {
+public class ColecoesFrameworkOverview {
 
     public static void main(String[] args) {
         

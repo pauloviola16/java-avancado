@@ -1,7 +1,7 @@
 # Java Avançado ☕
 
 Este repositório reúne meus estudos em Java Avançado, organizados por tópicos fundamentais para aprofundar o domínio da linguagem.  
-O foco é desenvolver código mais robusto e reutilizável, preparando a base para Java backend com JPA e Spring Boot.
+
 
 ---
 
